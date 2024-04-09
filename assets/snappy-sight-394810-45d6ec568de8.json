@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "snappy-sight-394810",
+  "private_key_id": "45d6ec568de85272fc4f2d2ae5947edb728cab76",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC73vgM6OyLjon+\npDrvAd35ztWsjg9aHt98jRkJsLMaqv8o8XGvJWlArEHfk0KDwKkjPfVlIgpm7zQl\n09iP3CGJZ7wVBSHPm7T2g598RsC2QyvqvuBA7ppn08EQaU6U3zNxtIU1bn05i4LK\nTLyHAeH+ybL/IO4zoV8F3DCEnkwHeXTyoPPgvCLz2fj/iw+2lkRkORZucMxmV6wq\nHDc1YenGIPLWt7wT0qGkU14+ClG64zTFLSOVqEkmkUpvBQ4/GOKIVOz2yJxyiIFJ\n1Sc3MEMUm45LJGDqt/b3UmY2GgJ63W4zgwbUiQo3+cgPrHagPfK+dvoCR5UpKDBS\nrxlifh2dAgMBAAECgf8X/deIHUpmr2rIkDCAVTLcUXnkVD/wabIgmDL8zrtLrIqa\ndNhyNrdN7XZ8FrSi45UsElsJGRSxJCm/vpzB6b0jk+CsCZlHwob3G4kuuCkfHXTg\nwJMd3wvY1AqE5p8Osq1VThrIfPEyLQE4D4DwMurkd1OzQQsqUaxasMPQK8liZdP+\nybFVLaz3IknVE3C+OHT+LFkchp8vI3J5Z6A0dw9RwOToSKanZ6PZqUPph8TIwCMO\nGr0vbolU/7aMSVJK7ChHTQjehOCKXBYKxY53JWZSzX2AHfpLSx6gkEZ8e4jZvcyY\nZ+S1m72xZXWLsEH2R2duNWDV1fVNIx71E/Md3Y0CgYEA/gbtuqGFMfBcS3wYGgrh\nA9BAsznXXcRpbreB2kaB8vn6xzx2fhDqCToxzucwKrajvuTLI4q4SSiw24H6yyRy\nUBNbGhuDYlz48Cp6t/7vDE+suSPea/yDzd6rPcFDC4dFif8Nnxkago0YlYLKbSqi\n461/WhPx7eLb3mNoDK514p8CgYEAvVSBQyUeLe4XszLkecx7EIaaKPUicrXg3Rea\nLpihDZFgIZvfgVw40Nhpij8nV8DvXOUeV4ZJhSd2qxhp2pQ5CMBLs2gaCW4PLZmK\nJuM+Db8hrz2fk75NOy+dFDBCn2lM7jesAaJrmv4iQ97Z8HzZPx7X/ihKnvkNYXU/\n8nunckMCgYBcMVWMG1zE0BAfES2KHhKmGKmyojZogIUnOpB1EIvPDCyYrHfwruDR\ncn5rMfqINfrdqBmVj53sZ0kwkU7c9SBLsYqpwfx/8XAjcbdSGcLWPABavQrXNDD9\nwWdypTZY88IoIBnoeOrnIKAgevROhF/Ts775iS2PgXr8jiVQHO0JzwKBgESXW+k2\nhlN/gaiTVIDn2uHm0ezqulsyl0+iIGKnOxnORDSI4xVbkt3euYWzUY6SQGW4QCDX\nbsVFwdFEm/zrXCpWeFZ77YrjC66qhImIJFAYoZx6R9jfxd0eZ9sLjOdx38Qh+Tfy\nXuedEE7karKcmJwskXXrpPUpJ3baYpt3vvc/AoGBAKTUueH4phrH1th+SgHuu6qK\nMB6GvcxPoPih7+9O6p4iJIEUbiSc8fp9PvYboQG2/GjejESjAp3ww8o78wO2n3E2\nHfJAPcEqHylQU83p2CzaDJ2i18mwsy2WRuk+tkAhnTw2cynR+MLcvrtpbsng3XCN\nqdkrB5Cq2JNZQasNc40n\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-to-text@snappy-sight-394810.iam.gserviceaccount.com",
+  "client_id": "117174948402864588777",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text%40snappy-sight-394810.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
